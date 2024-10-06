@@ -1,3 +1,3 @@
-Workspace
+Turtle Tracking Project Workspace for ENV 859
 Created by: mld83@duke.edu
-Updated: Sept 2024
+Created: Fall 2024
